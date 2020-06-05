@@ -1,8 +1,7 @@
-# laura-coin-game
-A simple coin game implemented using the JavaScript HTML gaming framework phaser.io
+# dubey_game
+Modified already developed simple coin game which was implemented using the JavaScript HTML gaming framework phaser.io
 
-https://www.laurasammons.com/game/
+original game can be found at https://www.laurasammons.com/game/
 
-Drawn from an excellent tutorial, I coded this HTML5/JavaScript game in 2018.  
 
-Directions to play:  Use the spacebar to jump + the arrow keys to direct the little gamer.  Gather all the coins + the red badge to win! Avoid drinking too much poison or you might lose.  Good luck! 
+Directions to play:  Use the arrow keys to direct Dubey.  Gather all the aws products and take preaveen to Nishchay's meeting to win! Avoid drinking too much poison or you might lose.  Good luck! 
